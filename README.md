@@ -14,4 +14,9 @@ I provided only the `source.c` code for security reasons.
 
 ## Compile
 
-`Linux`: Recommended compiler ~ `gcc`
+`Linux`: Recommended compiler ~ `gcc` ( In the process you should add `-lpcap` to your command ).
+
+## Recommended Network Ananlyzers
+
+- Wireshark - https://www.wireshark.org/download.html
+- Brim - https://www.brimdata.io/download/
